@@ -4,7 +4,21 @@
   <url>
     <loc>http://example.com/2021/01/05/hello-world/</loc>
     
-    <lastmod>2021-01-05</lastmod>
+    <lastmod>2021-01-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/link/index.html</loc>
+    
+    <lastmod>2021-01-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/index.html</loc>
+    
+    <lastmod>2021-01-06</lastmod>
     
   </url>
   
